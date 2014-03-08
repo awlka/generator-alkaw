@@ -1,4 +1,1 @@
-generator-alkaw
-===============
-
 Yo Alkaw
